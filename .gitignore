@@ -1,0 +1,4 @@
+.env
+virtual/
+.virtual/
+__pycache__/
